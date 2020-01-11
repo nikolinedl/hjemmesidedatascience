@@ -2,9 +2,9 @@
 
 
 
-## Welcome to GitHub Pages
+## Welcome to Data Science
 
-![Image](src)
+![Image](https://github.com/nikolinedl/hjemmesidedatascience/blob/master/pictures/ugle2.jpg)
 
 You can use the [editor on GitHub](https://github.com/nikolinedl/hjemmesidedatascience/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
